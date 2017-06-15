@@ -1,0 +1,11 @@
+﻿<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+	<title>ProfPhotograph</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<h1>Photographer</h1>
+
+</body>
+</html>
